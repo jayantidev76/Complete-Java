@@ -7,6 +7,7 @@ public class ifElse {
 //           System.out.println("you can vote");
 //       } else {
 //           System.out.println("you cannot vote");
+        System.out.println("day schedule");
 
         int day = 3;
         if (day==1) {
@@ -19,6 +20,7 @@ public class ifElse {
             System.out.println("Go to office");
 
             System.out.println("Went Somewhere today");
+
 
 
      }
